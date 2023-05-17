@@ -24,10 +24,9 @@
   }
 
 
-  .topnav_right{
-    margin-left: auto; 
+  .topnav_right_1{
+    margin-left: 40%; 
     margin-right: 0;
-
   }
 
 
@@ -37,6 +36,11 @@
     margin-right: auto;
     width: 100%; 
     height: auto; 
+}
+.search_bar{
+  margin: 10px;
+  margin-left: 60%;
+  margin-right: 0%;
 }
 
 .container {
@@ -105,9 +109,7 @@ ul {
     font-size: 12px;
 }
 
-#product{
-    text-align: center;
-}
+
 .orange { color: #F5876E; }
 
 .blue{ color: #61A8DC; }
