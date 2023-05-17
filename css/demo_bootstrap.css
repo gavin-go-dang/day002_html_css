@@ -1,0 +1,84 @@
+.navbar{
+    background-color: black;
+}
+
+.container-fluid a:hover{
+    background-color: #ddd;
+    color: black;
+}
+
+.bg-image{
+    margin: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    scale:1
+}
+
+
+#intro{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding: 5%;
+}
+#QNT {
+    font-family: cursive;
+    color: white;
+    font-size: 300%;
+    white-space: nowrap;
+    text-align: center;
+}
+
+
+#describe{
+    font-family: cursive;
+    color: white;
+    font-size: 100%;
+    white-space: nowrap;
+    text-align: center;
+    padding: 50px;
+}
+
+#table{
+    margin: 10%
+    position: relative;
+}
+
+#column{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.container{
+    align-items: center;
+
+}
+
+.col-md-1{
+    float: inline-start;
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-bottom: 0%;
+    padding-right: 7%;
+    margin-bottom: 0;
+}
+
+.col-md-2{
+    float: inline-start;
+    padding-top: 0%;
+    padding-left: 10%;
+    padding-bottom: 0%;
+}
+
+.orange { color: #F5876E; }
+
+.red{ color: red; }
+
+.gray{ color: gray; }
+
+.purple { color: #988CC3; }
+
+.green { color: green;
+    padding-bottom: 10% }
